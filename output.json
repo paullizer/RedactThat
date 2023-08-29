@@ -1,0 +1,201 @@
+[
+    {
+      "height": 800,
+      "width": 659,
+      "angle": 9.9036,
+      "pageNumber": 1,
+      "words": [
+        {
+          "content": "GRANITE",
+          "boundingBox": [
+            286,
+            228,
+            414,
+            217,
+            417,
+            268,
+            289,
+            282
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 0,
+            "length": 7
+          }
+        },
+        {
+          "content": "RIDGE",
+          "boundingBox": [
+            424,
+            216,
+            523,
+            208,
+            526,
+            259,
+            427,
+            267
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 8,
+            "length": 5
+          }
+        },
+        {
+          "content": "LP",
+          "boundingBox": [
+            533,
+            207,
+            568,
+            205,
+            571,
+            256,
+            536,
+            258
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 14,
+            "length": 2
+          }
+        },
+        {
+          "content": "FALLING",
+          "boundingBox": [
+            275,
+            339,
+            348,
+            364,
+            335,
+            404,
+            263,
+            380
+          ],
+          "confidence": 0.457,
+          "span": {
+            "offset": 17,
+            "length": 7
+          }
+        },
+        {
+          "content": "ROCK",
+          "boundingBox": [
+            355,
+            367,
+            399,
+            384,
+            387,
+            421,
+            343,
+            406
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 25,
+            "length": 4
+          }
+        },
+        {
+          "content": "WAY",
+          "boundingBox": [
+            406,
+            387,
+            438,
+            401,
+            426,
+            434,
+            394,
+            423
+          ],
+          "confidence": 0.657,
+          "span": {
+            "offset": 30,
+            "length": 3
+          }
+        },
+        {
+          "content": "STOP",
+          "boundingBox": [
+            187,
+            497,
+            313,
+            517,
+            296,
+            617,
+            171,
+            595
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 34,
+            "length": 4
+          }
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 38
+        }
+      ],
+      "lines": [
+        {
+          "content": "GRANITE RIDGE LP",
+          "boundingBox": [
+            286,
+            228,
+            567,
+            204,
+            571,
+            255,
+            289,
+            281
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "FALLING ROCK WAY",
+          "boundingBox": [
+            274,
+            338,
+            439,
+            396,
+            425,
+            434,
+            261,
+            377
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "STOP",
+          "boundingBox": [
+            192,
+            497,
+            318,
+            520,
+            303,
+            617,
+            171,
+            595
+          ],
+          "spans": [
+            {
+              "offset": 34,
+              "length": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]

@@ -10,6 +10,7 @@ def redact(x1, y1, x2, y2, x3, y3, x4, y4, image_input_path, image_output_path):
         # Save the modified image to the output path
         im.save(image_output_path)
 
-input_path = "C:/temp/before.tif"
-output_path = "C:/temp/redacted.tif"
+input_path = "example_image/before.jpg"
+output_path = "redacted_image/redacted_using_a_rectangle.jpg"
+
 redact(260, 150, 580, 150, 580, 300, 260, 300, input_path, output_path)

@@ -12,8 +12,8 @@ import re
 
 # These are the constant names of the environment variables you can set if you want to specify
 # secrets using environment variables instead of command-line arguments
-ENVIRONMENT_VARIABLE_KEY = "cd622a63aa974acc96c7da6f0268254f"
-ENVIRONMENT_VARIABLE_ENDPOINT = "https://retroburn-computervision.cognitiveservices.azure.com/"
+ENVIRONMENT_VARIABLE_KEY = "KEY_HERE"
+ENVIRONMENT_VARIABLE_ENDPOINT = "https://NAME_HERE.cognitiveservices.azure.com/"
 
 # These will be populated by the code below, by reading run-time arguments or environment variables.
 # The sample code will need both values in order to authenticate against the Image Analysis service.
